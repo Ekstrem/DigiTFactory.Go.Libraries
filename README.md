@@ -162,4 +162,4 @@ git push --tags
 
 ## Лицензия
 
-См. [LICENSE](LICENSE).
+См. [MIT-LICENSE](LICENSE).
